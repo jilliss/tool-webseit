@@ -87,6 +87,8 @@ export default function Home() {
                 <title>java mybatis sql log auto fill </title>
                 <Meta name="description" content="Automatically populate sql with mybatis logs and parameters"></Meta>
                 <link rel="icon" href="/favicon-32x32.png"/>
+                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6046059224675624"
+                        crossOrigin="anonymous"></script>
             </Head>
             <Container>
                 <Form>
