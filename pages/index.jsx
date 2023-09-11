@@ -74,9 +74,9 @@ export default function Home() {
         document.execCommand("copy");
         document.body.removeChild(aux);
         if ("" != content) {
-            alert("复制成功，直接粘贴即可");
+            alert("The conversion succeeded! Copied to the clipboard!");
         } else {
-            alert("转换失败");
+            alert("Conversion failed!");
         }
 
 
